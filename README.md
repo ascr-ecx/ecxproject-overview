@@ -8,23 +8,21 @@ We are investigating how changes in our sampling algorithms – necessary becaus
 
 The ECX project has resulted in several online communities that include a variety of open source software, websites, interactive tools, and information that you can take advantage of. We invite you to use these tools, and add to them as well.
 
-### The Evaluation Toolkit
-An open source toolkit designed to help you conduct image-based perceptual studies on your own visualizations.  
+### [The Evaluation Toolkit](https://github.com/ascr-ecx/etk)
+An open source toolkit designed to help you conduct image-based perceptual studies on your own visualizations.  See the [ETK Wiki](https://github.com/ascr-ecx/etk/wiki) for details.
 
-### The ECX Experimental Test Harness (ETH) (Experimental Test Harness GitHub)
+### The ECX Experimental Test Harness (ETH) [Experimental Test Harness GitHub](https://github.com/ascr-ecx/eth)
 A lightweight toolkit for exploring data analysis and visualization workflows across a large parallel design space.
 
-### sciviscolor (sciviscolor.org)
+### [SciVisColor Portal](https://sciviscolor.org/)
 This website collects a range of research on colormaps, color schemes, and interactive creation of tuned colormaps.
 
-### colormeasures.org (colormeasures.org)
+### colormeasures.org [ColorMeasures Tool](https://colormeasures.org/)
 An online tool to enable you to mathematically analyze the properties of a colormap in multiple color spaces.  The mathematical measures calculated by the ColorMeasures tool are described in a paper presented at IEEE VIS 2017: The Good, the Bad, and the Ugly: A Theoretical Framework for the Assessment of Continuous Colormaps.  These measures can help you to understand both local and global perceptual properties of the colormap tested.  These properties include: uniformity, discriminative power, and order. 
 
 
-## ECX GitHub
+## ECX GitHub 
 
 The ECX project has a GitHub repository.   All of the open-source code released under the ECX grant can be found at https://github.com/ascr-ecx
-Contact
-
-Please email ecx@lanl.gov with questions about this work, and any of the related websites.
+Contact ecx@lanl.gov with questions about this work, and any of the related websites.
 
